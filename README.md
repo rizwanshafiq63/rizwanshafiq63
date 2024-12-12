@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
 
 ## 📧 Connect With Me
 - 📧 Email: [rizwanshafiq63@gmail.com](mailto:rizwanshafiq63@gmail.com)
-- 💼 LinkedIn: [Rizwan Shafiq](https://www.linkedin.com/in/rizwanshafiq63?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 LinkedIn: [Muhammad Rizwan Shafiq](https://www.linkedin.com/in/rizwanshafiq63?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
