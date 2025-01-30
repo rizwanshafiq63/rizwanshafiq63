@@ -12,11 +12,13 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
   - **Software Development**: Object-Oriented Programming (OOP), File Handling, Exception Handling, and Algorithm Design  
   - **Web Development**: Frontend & Backend Basics  
   - **Linux Enthusiast**: Recently switched to **Arch Linux** and have used **Kali Linux** in virtual box as well.
+  - 🖥️ **Linux System Administration**: Gaining experience with Arch Linux and system administration, diving into package management, shell scripting, and system optimizations.
   - **Version Control**: Proficient with **Git & GitHub**  
   - **Graphic Designing**: Creating modern and minimalistic designs using **Adobe Illustrator** and **Canva**  
-  - **Other Tools**: Basic expertise in **Kali Linux**, **WordPress**, and **GitHub Pages**  
-- 🎨 Hobbies: Coding, reading, exploring new technologies, and problem-solving  
-- 🤝 Team Player: I enjoy collaborating on projects and sharing knowledge with peers
+  - **Other Tools**: Basic expertise in **Kali Linux**, **WordPress**, **GitHub Pages**, and **Jupyter Notebooks**  
+  - 🧑‍💻 **ChatGPT Course**: Completed a course to explore and better understand AI technologies and the practical use of ChatGPT in programming and development.
+  - 🎨 Hobbies: Coding, reading, exploring new technologies, and problem-solving  
+  - 🤝 Team Player: I enjoy collaborating on projects and sharing knowledge with peers
 
 ---
 
@@ -44,17 +46,20 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
 
 - **Tools & Platforms**:  
   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+  ![Hyprland](https://img.shields.io/badge/Hyprland-8A2BE2?style=for-the-badge&logo=linux&logoColor=white)
   ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C8D?style=for-the-badge&logo=kali-linux&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 📧 Connect With Me
 - 💼 LinkedIn: [Muhammad Rizwan Shafiq](https://www.linkedin.com/in/rizwanshafiq63?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🌐 GitHub: [@rizwanshafiq63](https://github.com/rizwanshafiq63)
+- 📧 Email: [rizwanshafiq63@gmail.com](mailto:rizwanshafiq63@gmail.com)
 
 ---
 
