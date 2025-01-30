@@ -1,42 +1,60 @@
 # Hi there, I'm Muhammad Rizwan Shafiq! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science student** with a keen interest in **Artificial Intelligence**, **programming**, and **web development**. Here, you'll find a collection of my projects, assignments, and experiments as I continue my journey in the tech world.
+Welcome to my GitHub profile! I'm a passionate **Computer Science student** with a strong interest in **Artificial Intelligence**, **programming**, and **software development**. Here, you'll find my projects, assignments, and experiments as I progress in my tech journey.
 
 ---
 
 ## 🚀 About Me
 - 🎓 **CS Student** at COMSATS University, Islamabad
-- 🌱 Currently learning: **Advanced Programming**, **AI concepts**, and **Web Development**
-- 💻 Skills: 
-  - **Programming Languages**: Python, Java, HTML, CSS
-  - **Web Development**: Frontend & Backend
-  - **Graphic Designing**: Creating modern and minimalistic designs using **Adobe Illustrator** and **Canva**
-  - **Other Tools**: Basic expertise in **Kali Linux**, **WordPress**, and **GitHub**
-- 🎨 Hobbies: Coding, reading, gardening, and traveling
-- 💡 Exploring: **Ethical Hacking** and incorporating GitHub into my daily workflow
-- 🙏 Quick Learner: I grasp concepts quickly and adapt to new tools and environments with ease
-- 💬 Team Player: I excel in collaborative settings and enjoy working with diverse groups
+- 💡 Currently exploring: **Data Structures & Algorithms (DSA) with C++**, **OOP with Java**, and **Linux System Administration**
+- 💻 Skills:  
+  - **Programming Languages**: C++, Java, Python, HTML, CSS  
+  - **Software Development**: Object-Oriented Programming (OOP), File Handling, Exception Handling, and Algorithm Design  
+  - **Web Development**: Frontend & Backend Basics  
+  - **Linux Enthusiast**: Recently switched to **Arch Linux** and have used **Kali Linux** in virtual box as well.
+  - **Version Control**: Proficient with **Git & GitHub**  
+  - **Graphic Designing**: Creating modern and minimalistic designs using **Adobe Illustrator** and **Canva**  
+  - **Other Tools**: Basic expertise in **Kali Linux**, **WordPress**, and **GitHub Pages**  
+- 🎨 Hobbies: Coding, reading, exploring new technologies, and problem-solving  
+- 🤝 Team Player: I enjoy collaborating on projects and sharing knowledge with peers
 
 ---
 
-## 🌟 What You'll Find Here
-- 🔄 **Personal Projects**: Experiments in AI, Web Apps, and more
-- 💂 **University Assignments**: My coursework and academic challenges
-- 💡 **Collaborative Work**: Projects I’ve worked on with my peers
-- 🔧 **Tools & Frameworks**: Tools I use for development and design
+## 🌟 My GitHub Repositories
+- 📂 **[OOP-with-Java](https://github.com/rizwanshafiq63/OOP-with-Java.git)** – Object-Oriented Programming concepts and mini-projects
+- 📂 **[DSA-with-Cpp](https://github.com/rizwanshafiq63/DSA-with-Cpp.git)** – Data Structures & Algorithms practice and implementations
+- 📂 **[semester-projects-repo](https://github.com/rizwanshafiq63/semester-projects-repo.git)** – A collection of projects made throughout my academic journey
+- 📂 **[Java-2nd-Semester](https://github.com/rizwanshafiq63/Java-2nd-Semester.git)** – Well-structured Java assignments, graded tasks, and keynotes
 
 ---
 
 ## 💻 Tech Stack
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- **Frameworks & Tools**: ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-- **Platforms**: ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C8D?style=for-the-badge&logo=kali&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+- **Languages**:  
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+- **Frameworks & Tools**:  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+  ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+- **Tools & Platforms**:  
+  ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C8D?style=for-the-badge&logo=kali-linux&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📧 Connect With Me
-- 📧 Email: [rizwanshafiq63@gmail.com](mailto:rizwanshafiq63@gmail.com)
 - 💼 LinkedIn: [Muhammad Rizwan Shafiq](https://www.linkedin.com/in/rizwanshafiq63?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🌐 GitHub: [@rizwanshafiq63](https://github.com/rizwanshafiq63)
 
 ---
 
@@ -45,4 +63,4 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
 
 ---
 
-### ✨ Let's build amazing things together!
+### ✨ Keep Learning, Keep Growing!
