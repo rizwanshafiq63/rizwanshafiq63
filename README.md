@@ -8,15 +8,18 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
 - 🎓 **CS Student** at COMSATS University, Islamabad
 - 💡 Currently exploring: **Data Structures & Algorithms (DSA) with C++**, **OOP with Java**, and **Linux System Administration**
 - 💻 Skills:  
-  - **Programming Languages**: C++, Java, Python, HTML, CSS  
-  - **Software Development**: Object-Oriented Programming (OOP), File Handling, Exception Handling, and Algorithm Design  
+  - **Programming Languages**: C++, Java, Kotlin, Python, HTML, CSS  
+  - **Software Development**: OOP, Generics, File Handling, Exception Handling, Algorithm Design, Recursion, and Debugging
+  - **Java GUI**: Created interactive and structured Java Swing-based desktop applications
   - **Web Development**: Frontend & Backend Basics  
-  - **Linux Enthusiast**: Recently switched to **Arch Linux** and have used **Kali Linux** in virtual box as well.
+  - **Linux Enthusiast**: Daily driving **Arch Linux**, proficient in terminal tools, Hyprland, and system configurations.
   - 🖥️ **Linux System Administration**: Gaining experience with Arch Linux and system administration, diving into package management, shell scripting, and system optimizations.
-  - **Version Control**: Proficient with **Git & GitHub**  
+  - **Version Control**: Proficient with **Git & GitHub**, and workflow management  
   - **Graphic Designing**: Creating modern and minimalistic designs using **Adobe Illustrator** and **Canva**  
   - **Other Tools**: Basic expertise in **Kali Linux**, **WordPress**, **GitHub Pages**, and **Jupyter Notebooks**  
-  - 🧑‍💻 **ChatGPT Course**: Completed a course to explore and better understand AI technologies and the practical use of ChatGPT in programming and development.
+  - 🧠 **AI & Tools**:  
+    - Completed a course on **ChatGPT** and its practical applications in coding  
+    - Comfortable with **Jupyter Notebooks** for prototyping and data handling  
   - 🎨 Hobbies: Coding, reading, exploring new technologies, and problem-solving  
   - 🤝 Team Player: I enjoy collaborating on projects and sharing knowledge with peers
 
