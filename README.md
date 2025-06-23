@@ -26,10 +26,8 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
 ---
 
 ## 🌟 My GitHub Repositories
-- 📂 **[OOP-with-Java](https://github.com/rizwanshafiq63/OOP-with-Java.git)** – Object-Oriented Programming concepts and mini-projects
-- 📂 **[DSA-with-Cpp](https://github.com/rizwanshafiq63/DSA-with-Cpp.git)** – Data Structures & Algorithms practice and implementations
-- 📂 **[semester-projects-repo](https://github.com/rizwanshafiq63/semester-projects-repo.git)** – A collection of projects made throughout my academic journey
-- 📂 **[Java-2nd-Semester](https://github.com/rizwanshafiq63/Java-2nd-Semester.git)** – Well-structured Java assignments, graded tasks, and keynotes
+- 📂 **[CS-Semester-Projects](https://github.com/rizwanshafiq63/CS-Semester-Projects.git)** – A unified and well-organized collection of all my academic projects, including Java, C++, Data Structures, and semester-based assignments and tasks.
+- 📂 **[dotfiles](https://github.com/rizwanshafiq63/dotfiles.git)** – My personal Linux configuration files for Arch Linux, Hyprland, Neovim, Kitty, shell scripts, and other system customizations.
 
 ---
 
