@@ -8,7 +8,12 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
 - 🎓 **CS Student** at COMSATS University, Islamabad
 - 💡 Currently exploring: **Data Structures & Algorithms (DSA) with C++**, **OOP with Java**, and **Linux System Administration**
 - 💻 Skills:  
-  - **Programming Languages**: C++, Java, Kotlin, Python, HTML, CSS  
+  - **Programming Languages**: C++, Java, Kotlin, Python, HTML, CSS
+  - **Android Development**:  
+    - Building modern Android apps with **Kotlin**  
+    - UI development using **Jetpack Compose**  
+    - Asynchronous programming with **Coroutines**  
+    - Reactive data handling with **Flows**
   - **Software Development**: OOP, Generics, File Handling, Exception Handling, Algorithm Design, Recursion, and Debugging
   - **Java GUI**: Created interactive and structured Java Swing-based desktop applications
   - **Web Development**: Frontend & Backend Basics  
@@ -40,7 +45,10 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Frameworks & Tools**:  
+- **Frameworks & Tools**:
+  ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)  
+  ![Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
+  ![Kotlin Flows](https://img.shields.io/badge/Kotlin%20Flows-5C2D91?style=for-the-badge&logo=kotlin&logoColor=white)  
   ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -63,12 +71,12 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
 - 💼 LinkedIn: [Muhammad Rizwan Shafiq](https://www.linkedin.com/in/rizwanshafiq63?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🌐 GitHub: [@rizwanshafiq63](https://github.com/rizwanshafiq63)
 - 📧 Email: [rizwanshafiq63@gmail.com](mailto:rizwanshafiq63@gmail.com)
-
+<!--
 ---
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanshafiq63&show_icons=true&theme=radical)
-
+-->
 ---
 
 ### ✨ Keep Learning, Keep Growing!
