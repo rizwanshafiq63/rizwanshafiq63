@@ -46,9 +46,9 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Frameworks & Tools**:
-  ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)  
-  ![Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
-  ![Kotlin Flows](https://img.shields.io/badge/Kotlin%20Flows-5C2D91?style=for-the-badge&logo=kotlin&logoColor=white)  
+  ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+  ![Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Kotlin Flows](https://img.shields.io/badge/Kotlin%20Flows-5C2D91?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
